@@ -22,10 +22,6 @@ body{
     transition: all 300ms ease-in;
 }
 
-.texts:hover{
-    box-shadow: 0 0 30px #01010f;
-}
-
 .text-title{
     font-size: 2em;
     margin-top: 1em;
